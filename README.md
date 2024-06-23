@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Arya Aditya and I'm a building up my skills to become a Full Stack Web Developer.</p>
+<p align="left">My I am Arya Aditya and I'm a building up my skills.</p>
 
 ###
 
