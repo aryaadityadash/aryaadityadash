@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🏛️ Final year student at SOA Deemed to be University<br>📚 I'm currently brushing up my knowledge in DS & Algorithms.<br>💼 Intern at Philips</p>
+<p align="left">💼 Intern at Philips<br>🏛️ Final year student at SOA Deemed to be University<br>📚 I'm currently brushing up my knowledge in DS & Algorithms</p>
 
 ###
 
