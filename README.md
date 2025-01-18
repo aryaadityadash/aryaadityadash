@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Arya Aditya and I'm a building up my skills.</p>
+<p align="left">I am Arya and I'm a building up my programming skills</p>
 
 ###
 
@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">🏛️ Final year student at SOA Deemed to be University, Bhubaneswar.<br>📚 I'm currently brushing up my knowledge in DS & Algorithms.<br>💼 Interned at HAL.</p>
+<p align="left">🏛️ Final year student at SOA Deemed to be University, Bhubaneswar.<br>📚 I'm currently brushing up my knowledge in DS & Algorithms.
+  <br>💼 Interning at Philips, Bengaluru.<br>💼 Interned at HAL, Odisha.</p>
 
 ###
 
