@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Arya and I'm a building up my programming skills</p>
+<p align="left">I am Arya and I'm a building up my programming skills.</p>
 
 ###
 
